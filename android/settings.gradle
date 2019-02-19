@@ -1,0 +1,3 @@
+rootProject.name = 'poli_1001'
+
+include ':app'
